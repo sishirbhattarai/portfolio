@@ -31,6 +31,27 @@ body {
 
   p1 {
       font-size: 25px;
-      color: black
-      font-family: 
+      color: black;
+      font-family; 
+  }
+
+  p2{
+    padding:1rem;
+    float: left;
+    margin:1%;
+    line-height: 10px;
+    font-size:100px;
+  }
+
+  .figure{
+    padding:1rem;
+    margin:50px
+  }
+
+  .card-body{
+    font-style: normal;
+    background: black;
+    color: white;
+
+
   }
